@@ -1,0 +1,12 @@
+[info] SolutionTest:
+[info] example 1
+[info] - should work *** FAILED ***
+[info]   0 did not equal 2 (SolutionTest.scala:10)
+[info] example 2
+[info] - should work *** FAILED ***
+[info]   2 did not equal 3 (SolutionTest.scala:16)
+[info] example 3
+[info] - should work *** FAILED ***
+[info]   15 did not equal 12 (SolutionTest.scala:22)
+[info] example 4
+[info] - should work

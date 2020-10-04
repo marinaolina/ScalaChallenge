@@ -1,0 +1,4 @@
+[info] DiscountTest:
+[info] buy one, get one free on Apples
+[info] - should work *** FAILED ***
+[info]   2 did not equal 1 (SolutionTest.scala:8)

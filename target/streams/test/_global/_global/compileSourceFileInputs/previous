@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.3":{"hashes":[["C:\\ScalaChallenge\\src\\test\\scala\\CheapLetterDeletion\\SolutionTest.scala","c475063f1570e12c2547fdcf4fa84051c7f7b235"]],"lastModifiedTimes":[]}}]
